@@ -26,14 +26,7 @@
         "psr-4": {
           "Numericscode\\Npay\\": "src/"
         },
-        "autoload-dev": {
-        "psr-4": {
-            "Numericscode\\Npay\\Test\\": "tests"
-        }
-    },
-    "scripts": {
-        "test": "vendor/bin/phpunit"
-    },
+        
     "extra": {
     "laravel": {
         "providers": [
