@@ -24,7 +24,7 @@
     },
     "autoload": {
         "psr-4": {
-          "Numericscode\\Npay\\": "src/"
+          "\\Numericscode\\Npay": "numericscode/laravel-npay/src/"
         }
    },
      "extra": {
