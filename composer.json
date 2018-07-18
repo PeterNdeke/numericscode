@@ -26,15 +26,6 @@
         "psr-4": {
           "\\Numericscode\\Npay\\": "numericscode/laravel-npay/src/"
         }
-   },
-     "extra": {
-    "laravel": {
-        "providers": [
-            "Numericscode\\Npay\\NpayServiceProvider"
-        ],
-        "aliases": {
-            "Npay": "Numericscode\\Npay\\Facades\\Npay"
-        }
-    }
-  }
+   }
+     
 }
